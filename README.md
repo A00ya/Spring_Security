@@ -1,4 +1,4 @@
-<h2>Spring Security 6 </h2>
+<h2>Spring Security </h2>
 
 <h3>- InMemory Authentication method :</h3>
 <img src="Screenshots/in_memory.png" alt="">
